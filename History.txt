@@ -1,3 +1,6 @@
+== 0.13.8 / 2023-07-04
+  * Fix deprecated timeout call with Ruby version > 3.0.2
+
 == 0.13.7 / 2015-08-19
   * Bug fixes
     * Fixed slack integration (#217)
